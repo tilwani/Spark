@@ -1,4 +1,3 @@
-package lsda_assignment_4;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;
 import org.apache.spark.api.java.JavaRDD;
